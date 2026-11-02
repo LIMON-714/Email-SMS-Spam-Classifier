@@ -21,7 +21,7 @@ A Machine Learning-based Email/SMS Spam Classifier using TF-IDF Vectorization an
 
 <p align="center">
   <img width="1271" height="618" alt="image" src="https://github.com/user-attachments/assets/cf59e7da-a249-4e49-81e9-33067b1431f9" />
-</p>>
+</p>
 
 ---
 
