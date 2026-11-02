@@ -56,7 +56,7 @@ The application is developed using Python and Streamlit, providing an interactiv
 ### Code Implementation
 
 <p align="center">
-  <img width="1365" height="696" alt="image" src="https://github.com/user-attachments/assets/1efd40a6-e0eb-46ec-a13d-112cf8879b51" />
+  <img width="1206" height="661" alt="image" src="https://github.com/user-attachments/assets/002d4e83-9939-40bc-a21d-490063742921" />
 </p>
 
 ### 🚨 Spam Detection Result
