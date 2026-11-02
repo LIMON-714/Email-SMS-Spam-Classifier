@@ -20,8 +20,8 @@ A Machine Learning-based Email/SMS Spam Classifier using TF-IDF Vectorization an
 </p>
 
 <p align="center">
-  <img src="screenshots/home.png" alt="Email SMS Spam Classifier Home Page" width="90%">
-</p>
+  <img width="1271" height="618" alt="image" src="https://github.com/user-attachments/assets/cf59e7da-a249-4e49-81e9-33067b1431f9" />
+</p>>
 
 ---
 
@@ -57,12 +57,6 @@ The application is developed using Python and Streamlit, providing an interactiv
 
 <p align="center">
   <img width="1365" height="696" alt="image" src="https://github.com/user-attachments/assets/1efd40a6-e0eb-46ec-a13d-112cf8879b51" />
-</p>
-
-### 🏠 Home Page
-
-<p align="center">
-  <img width="1271" height="618" alt="image" src="https://github.com/user-attachments/assets/cf59e7da-a249-4e49-81e9-33067b1431f9" />
 </p>
 
 ### 🚨 Spam Detection Result
